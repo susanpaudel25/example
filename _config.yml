@@ -12,7 +12,7 @@ title                    : "Susan Paudel / PhD"
 title_separator          : "-"
 name                     : &name "Susan Paudel"
 description              : &description "Student in UGA"
-url                      : https://susanpaudel25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://susanpaudel25.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/example" # the subpath of your site, e.g. "/blog"
 repository               : "susanpaudel25/example"
 
